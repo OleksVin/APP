@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoParts UA</string>
+    <string name="title_search">Пошук</string>
+    <string name="title_categories">Категорії</string>
+    <string name="title_favorites">Вибране</string>
+    <string name="search_hint">Пошук автомобіля...</string>
+</resources>
